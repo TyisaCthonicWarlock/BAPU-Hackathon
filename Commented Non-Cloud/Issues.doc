@@ -1,0 +1,5 @@
+The current approach has led to a very low model accuracy due to the following issues:
+
+Limited feature selection.
+High cardinality of the target labels.
+Possible overfitting or insufficient data for some labels.
