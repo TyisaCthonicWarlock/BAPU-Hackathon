@@ -1,6 +1,0 @@
-Tyrone has an idea for the following:
-Examine the general driving patterns of all the vehicles as clusters.
-After examining general driving patterns, note outliers in the vehicle's movements.
-Examine how often outliers are caused by specific vehicles. 
-Tyrone is assuming that if a vehicle has only a small number of outliers over a year, then the outliers may indicate the driver being in a state of high adrenaline. 
-Tyrone then believes that by examining the driving pattern changes occurring during the day of occurrence for the specific vehicle, it may reveal insights on how adrenaline can influence decision-making in terms of driving, and thus, assist with location prediction.
